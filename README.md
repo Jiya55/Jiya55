@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Jiya55<br>- 👀 I’m interested in coding, Fashion designing, Finance<br>- 🌱 I’m currently learning DSA in python, Data science with Python<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me Jiyakirori@gmail.com
-
+- 👋 Hey guys, my name is Jiya, I am 15 years old. I have been learning to code since I was 9. I know Python, Html and CSS.I want to study at MIT and in Paris.
+- 👀 I’m interested in coding, Fashion designing, Finance<br>- 🌱 I’m currently learning DSA in python, Data science with Python<br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me Jiyakirori@gmail.com
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/'https://www.youtube.com/channel/UC_fwh64oeLaSm_XXAVQd6Mg/featured) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/jiyakirori/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19879497/jiya-kirori) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/'https://www.youtube.com/channel/UC_fwh64oeLaSm_XXAVQd6Mg/featured) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
