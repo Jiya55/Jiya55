@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jiya55&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## certify
-https://jovian.ai/certificate/MFQTOOBZHE
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jiya55&icon=5&color=10)](https://visitcount.itsvg.in)
