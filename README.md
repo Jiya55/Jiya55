@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 👋 Hey guys, my name is Jiya, I am 15 years old. I have been learning to code since I was 9. I know Python, Html and CSS.I want to study at MIT and in Paris.
 - 👀 I’m interested in coding, Fashion designing, Finance<br>- 🌱 I’m currently learning Data Science and Machine Learning <br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me Jiyakirori@gmail.com
+- To know more about me - https://quickest-chair-e03.notion.site/About-Me-c446550507074a7a883feb3f2bf366ba
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/jiyakirori/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19879497/jiya-kirori) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/'https://www.youtube.com/channel/UC_fwh64oeLaSm_XXAVQd6Mg/featured)
