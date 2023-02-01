@@ -20,31 +20,19 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 🏅 Certificates
-
-[NLP_certification.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5058dea3-be35-4f92-8dd1-0fe4b2140a59/NLP_certification.pdf)
-
-![Jiya Kirori - Python.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18ec6b0d-8b89-4101-a157-d646935aabc5/Jiya_Kirori_-_Python.png)
-
-[certificate_jovian_DSA.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed68c025-2b89-45fd-89d5-80b22afb47db/certificate_jovian_DSA.pdf)
-
-[certificate_jovian_DS.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbc38ee6-ff69-4078-bb88-d8ba0320b5b1/certificate_jovian_DS.pdf)
-
-[python-3_certification.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/211904eb-46fc-4b92-a2d7-6eb4a86266af/python-3_certification.pdf)
-
-[Python-2_certification.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69fe4cad-7b2f-4e65-8321-7622705b8e30/Python-2_certification.pdf)
-
-[REGEX_certification.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a40f102-d6df-41f2-953e-402f0d1c5b1d/REGEX_certification.pdf)
-
-[LanguageParsing_certification.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e500bd00-7dff-407e-97d5-48d05e82c5fe/LanguageParsing_certification.pdf)
-
-[Blockchain_intro_certification.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49798c1d-1acb-457a-9327-0fdaedbdfc40/Blockchain_intro_certification.pdf)
-
-[stats_with_PythonCertificate.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78be9f63-5457-4b5d-9289-f59db61248aa/stats_with_PythonCertificate.pdf)
-
-[SQL_CERTIFICATE.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b91724d9-5886-4140-a168-e5365a4a7e16/SQL_CERTIFICATE.pdf)
-
-[Django_certification.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e2e1d07-1a50-44ac-a3c4-e4e44c764ae3/Django_certification.pdf)
+# 🏅 Certificates:
+![image](https://user-images.githubusercontent.com/52620918/216080085-a9f1f3be-a178-4eaf-abc5-83155f809442.png)
+![image](https://user-images.githubusercontent.com/52620918/216080216-e07b61c7-a21e-48fc-996a-863d77683582.png)
+![image](https://user-images.githubusercontent.com/52620918/216080253-6f6153bc-bae8-493a-9806-741e3827a759.png)
+![image](https://user-images.githubusercontent.com/52620918/216080284-c4275e61-b727-41db-9bf2-1ea01e5a9426.png)
+![image](https://user-images.githubusercontent.com/52620918/216080318-930b2f08-81ae-4fef-a8f9-e27432da8686.png)
+![image](https://user-images.githubusercontent.com/52620918/216080349-b89e67c8-ec4a-43e6-881b-2efc713ee02f.png)
+![image](https://user-images.githubusercontent.com/52620918/216080382-33041b17-b3d4-4fb1-aaf9-3c6f05b61d5b.png)
+![image](https://user-images.githubusercontent.com/52620918/216080419-2fa6147f-6cca-4c54-b782-3d98409b762c.png)
+![image](https://user-images.githubusercontent.com/52620918/216080442-425f2b34-ef4d-46dd-a205-e354eae0ac13.png)
+![image](https://user-images.githubusercontent.com/52620918/216080479-4122396b-05ba-42f9-8e6d-2c7e4ec16550.png)
+![image](https://user-images.githubusercontent.com/52620918/216080497-b68a390f-240b-497d-b523-d19199c1b6c7.png)
+![image](https://user-images.githubusercontent.com/52620918/216080520-7790d273-d801-4103-b7a5-ca0a33a9120b.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jiya55&theme=radical&hide_border=false)<br/>
