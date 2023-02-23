@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hey guys, my name is Jiya, I am 15 years old. I have been learning to code since I was 9. I know Python, Html and CSS.I want to study at MIT and in Paris.
+- 👋 Hey guys, my name is Jiya, I am 15(almost 16) years old. I have been learning to code since I was 9. I know Python, Html and CSS.I want to study at MIT and in Paris.
 - 👀 I’m interested in coding, Fashion designing, Finance<br>- 🌱 I’m currently learning Data Science and Machine Learning <br>- 💞️ I’m looking to collaborate on projects<br>- 📫 How to reach me Jiyakirori@gmail.com
 
 ## 🌐 Socials:
