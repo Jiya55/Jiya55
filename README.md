@@ -31,6 +31,7 @@
 ![image](https://user-images.githubusercontent.com/52620918/216080479-4122396b-05ba-42f9-8e6d-2c7e4ec16550.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080497-b68a390f-240b-497d-b523-d19199c1b6c7.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080520-7790d273-d801-4103-b7a5-ca0a33a9120b.png)
+![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jiya55&theme=radical&hide_border=false)<br/>
