@@ -19,6 +19,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 🏅 Certificates:
+![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
+![image](![image](https://github.com/Jiya55/Jiya55/assets/52620918/383e802a-3627-43ac-af68-c47c498b1927)
 ![image](https://user-images.githubusercontent.com/52620918/216080085-a9f1f3be-a178-4eaf-abc5-83155f809442.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080216-e07b61c7-a21e-48fc-996a-863d77683582.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080253-6f6153bc-bae8-493a-9806-741e3827a759.png)
@@ -31,7 +33,6 @@
 ![image](https://user-images.githubusercontent.com/52620918/216080479-4122396b-05ba-42f9-8e6d-2c7e4ec16550.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080497-b68a390f-240b-497d-b523-d19199c1b6c7.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080520-7790d273-d801-4103-b7a5-ca0a33a9120b.png)
-![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jiya55&theme=radical&hide_border=false)<br/>
