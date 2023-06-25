@@ -20,7 +20,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 🏅 Certificates:
 ![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
-![image](![image](https://github.com/Jiya55/Jiya55/assets/52620918/383e802a-3627-43ac-af68-c47c498b1927)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/383e802a-3627-43ac-af68-c47c498b1927)
+![image](https://images.credly.com/size/220x220/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080085-a9f1f3be-a178-4eaf-abc5-83155f809442.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080216-e07b61c7-a21e-48fc-996a-863d77683582.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080253-6f6153bc-bae8-493a-9806-741e3827a759.png)
