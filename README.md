@@ -24,6 +24,7 @@
 ![image](https://images.credly.com/size/220x220/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)
 ![image](https://images.credly.com/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png)
 ![image](https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)
+![image](https://images.credly.com/size/680x680/images/23859131-d0ff-4f44-900f-bac86165b941/image.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080085-a9f1f3be-a178-4eaf-abc5-83155f809442.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080216-e07b61c7-a21e-48fc-996a-863d77683582.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080253-6f6153bc-bae8-493a-9806-741e3827a759.png)
