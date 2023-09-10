@@ -6,6 +6,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/jiyakirori/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19879497/jiya-kirori) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_fwh64oeLaSm_XXAVQd6Mg/featured)
 Credly Account - https://www.credly.com/users/jiya-kirori/badges
+Microsoft Learn Account - https://learn.microsoft.com/en-us/users/jiyakirori-0627/achievements
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -31,6 +32,7 @@ Credly Account - https://www.credly.com/users/jiya-kirori/badges
 ![image](https://images.credly.com/size/680x680/images/66bed44e-4917-48b7-8e88-1b0c83d50437/Containers_and_Kubernetes_Essentials.png)
 ![image](https://images.credly.com/size/220x220/images/482f703c-e221-4667-91e6-4322c3210bc0/image.png)
 ![image](https://images.credly.com/size/220x220/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png)
+![image](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)
 ![image](https://user-images.githubusercontent.com/52620918/216080085-a9f1f3be-a178-4eaf-abc5-83155f809442.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080216-e07b61c7-a21e-48fc-996a-863d77683582.png)
 ![image](https://user-images.githubusercontent.com/52620918/216080253-6f6153bc-bae8-493a-9806-741e3827a759.png)
