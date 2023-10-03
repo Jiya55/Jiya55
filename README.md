@@ -4,7 +4,6 @@
 👋Hey guys, my name is Jiya, I am 16 years old. I have been coding since I was 9. I know Python, Html and CSS.I want to study at MIT and in Paris. I have keen interest in coding, fashion designing and finance.Coding is my passion. When not coding, I love to do Fashion designing and reading a lot about finance and stock trading. I’m currently learning Data Science and Machine Learning.I can make Websites and do Data Anaysis and am happy to do any related projects. My email id is Jiyakirori@gmail.com . 
 
 # 🌐 Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/jiyakirori/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19879497/jiya-kirori) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_fwh64oeLaSm_XXAVQd6Mg/featured)
 Credly Account - https://www.credly.com/users/jiya-kirori/badges
 Microsoft Learn Account - https://learn.microsoft.com/en-us/users/jiyakirori-0627/achievements
