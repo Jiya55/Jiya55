@@ -24,11 +24,15 @@ Microsoft Learn Account - https://learn.microsoft.com/en-us/users/jiyakirori-062
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 🏅 Certificates:
+![image](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH.jpeg)
+
 ![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 
 ![image](https://images.credly.com/size/680x680/images/fa418e1b-119d-4e79-b663-e6c20dfff214/Full_Stack_Cloud_Development_Capstone_Project.png)
 
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/383e802a-3627-43ac-af68-c47c498b1927)
+
+![image](https://images.credly.com/size/680x680/images/973136f8-09b5-439a-a309-45041c83c756/image.png)
 
 ![image](https://images.credly.com/size/220x220/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)
 
