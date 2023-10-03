@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-👋Hey guys, my name is Jiya, I am 15 years old. I have been coding since I was 9. I know Python, Html and CSS.I want to study at MIT and in Paris. I have keen interest in coding, fashion designing and finance.Coding is my passion. When not coding, I love to do Fashion designing and reading a lot about finance and stock trading. I’m currently learning Data Science and Machine Learning.I can make Websites and do Data Anaysis and am happy to do any related projects. My email id is Jiyakirori@gmail.com . 
+👋Hey guys, my name is Jiya, I am 16 years old. I have been coding since I was 9. I know Python, Html and CSS.I want to study at MIT and in Paris. I have keen interest in coding, fashion designing and finance.Coding is my passion. When not coding, I love to do Fashion designing and reading a lot about finance and stock trading. I’m currently learning Data Science and Machine Learning.I can make Websites and do Data Anaysis and am happy to do any related projects. My email id is Jiyakirori@gmail.com . 
 
 # 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/jiyakirori/)
