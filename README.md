@@ -50,6 +50,7 @@ Microsoft Learn Account - https://learn.microsoft.com/en-us/users/jiyakirori-062
 ![image](https://images.credly.com/size/220x220/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png)
 
 ![image](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)
+![image](https://learn.microsoft.com/training/achievements/get-started-c-sharp-part-2.svg)
 
 ![image](https://user-images.githubusercontent.com/52620918/216080085-a9f1f3be-a178-4eaf-abc5-83155f809442.png)
 
