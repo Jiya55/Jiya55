@@ -81,10 +81,10 @@ Tech Journal - https://thetechjournal.co.in/
 ![](https://github-readme-stats.vercel.app/api?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jiya55&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![An image of @jiya55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiya55)](https://holopin.io/@jiya55)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jiya55&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jiya55&icon=5&color=10)](https://visitcount.itsvg.in)
