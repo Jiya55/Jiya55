@@ -9,6 +9,7 @@ Credly Account - https://www.credly.com/users/jiya-kirori/badges
 Microsoft Learn Account - https://learn.microsoft.com/en-us/users/jiyakirori-0627/achievements
 Tech Journal - https://thetechjournal.co.in/
 
+
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -24,6 +25,8 @@ Tech Journal - https://thetechjournal.co.in/
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 🏅 Certificates:
+[![An image of @jiya55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiya55)
+
 ![image](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH.jpeg)
 
 ![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
@@ -81,7 +84,7 @@ Tech Journal - https://thetechjournal.co.in/
 ![](https://github-readme-stats.vercel.app/api?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jiya55&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![An image of @jiya55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiya55)](https://holopin.io/@jiya55)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jiya55&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
