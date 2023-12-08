@@ -29,6 +29,15 @@ Tech Journal - https://thetechjournal.co.in/
 
 ![image](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH.jpeg)
 
+![Screenshot 2023-12-08 133943](https://github.com/Jiya55/Jiya55/assets/52620918/7117c226-a644-4886-bf5b-a728a3ec37c8)
+
+![image](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)
+![image](https://learn.microsoft.com/training/achievements/get-started-c-sharp-part-2.svg)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/7e823c49-2c53-4664-9ae3-825a08d2caa3)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/ca752e00-410d-45f6-a371-b35d9641ed34)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/4ddf6b3b-1a29-4b77-85d6-a4b1d0925243)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/cfa60113-733f-4a07-a10b-02e5274cdb90)
+
 ![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 
 ![image](https://images.credly.com/size/680x680/images/fa418e1b-119d-4e79-b663-e6c20dfff214/Full_Stack_Cloud_Development_Capstone_Project.png)
@@ -53,8 +62,9 @@ Tech Journal - https://thetechjournal.co.in/
 
 ![image](https://images.credly.com/size/220x220/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png)
 
-![image](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)
-![image](https://learn.microsoft.com/training/achievements/get-started-c-sharp-part-2.svg)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/52620918/216080085-a9f1f3be-a178-4eaf-abc5-83155f809442.png)
 
@@ -79,6 +89,8 @@ Tech Journal - https://thetechjournal.co.in/
 ![image](https://user-images.githubusercontent.com/52620918/216080497-b68a390f-240b-497d-b523-d19199c1b6c7.png)
 
 ![image](https://user-images.githubusercontent.com/52620918/216080520-7790d273-d801-4103-b7a5-ca0a33a9120b.png)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jiya55&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
