@@ -40,6 +40,11 @@ Tech Journal - https://thetechjournal.co.in/
 
 ![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/84120d12-f7b9-4b48-ac38-c1bade7a2638)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/fe1f76a3-e456-4419-a5f7-3bc5875baca1)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/3568e7fc-af5e-4dcc-88af-22365548cd72)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/4c0ebeac-3c54-4392-97f1-e6e9aefb9fa2)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/e862eaae-25d3-4b86-85ec-e59cfe1651a3)
 ![image](https://images.credly.com/size/680x680/images/fa418e1b-119d-4e79-b663-e6c20dfff214/Full_Stack_Cloud_Development_Capstone_Project.png)
 
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/383e802a-3627-43ac-af68-c47c498b1927)
