@@ -31,6 +31,7 @@ Tech Journal - https://thetechjournal.co.in/
 
 ![Screenshot 2023-12-08 133943](https://github.com/Jiya55/Jiya55/assets/52620918/7117c226-a644-4886-bf5b-a728a3ec37c8)
 
+## Microsoft C sharp Badges
 ![image](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)
 ![image](https://learn.microsoft.com/training/achievements/get-started-c-sharp-part-2.svg)
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/7e823c49-2c53-4664-9ae3-825a08d2caa3)
@@ -38,34 +39,29 @@ Tech Journal - https://thetechjournal.co.in/
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/4ddf6b3b-1a29-4b77-85d6-a4b1d0925243)
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/cfa60113-733f-4a07-a10b-02e5274cdb90)
 
-![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
-
-![image](https://github.com/Jiya55/Jiya55/assets/52620918/84120d12-f7b9-4b48-ac38-c1bade7a2638)
+## Microsoft Power BI Badges
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/fe1f76a3-e456-4419-a5f7-3bc5875baca1)
-![image](https://github.com/Jiya55/Jiya55/assets/52620918/3568e7fc-af5e-4dcc-88af-22365548cd72)
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/4c0ebeac-3c54-4392-97f1-e6e9aefb9fa2)
 ![image](https://github.com/Jiya55/Jiya55/assets/52620918/e862eaae-25d3-4b86-85ec-e59cfe1651a3)
-![image](https://images.credly.com/size/680x680/images/fa418e1b-119d-4e79-b663-e6c20dfff214/Full_Stack_Cloud_Development_Capstone_Project.png)
+## Microsoft Dynamic 365(ERP) Badges
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/84120d12-f7b9-4b48-ac38-c1bade7a2638)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/3568e7fc-af5e-4dcc-88af-22365548cd72)
+## IBM Full Stack Developer Badges
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/b765e4a6-26c7-4833-a38e-756810073376)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/fa0ef5d8-8e00-4511-baa6-9d2f0e75a209)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/9d87d36b-2da4-415d-9183-22d0cdee960e)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/b3037b2f-6262-4dc7-85bb-9bb3cb0d6837)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/38c1cf5a-d3ad-496a-8d5e-86cb7ca763c5)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/dfa28667-7af5-4adf-94c9-f223787ef326)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/ede7cf83-f7ab-48b1-8f55-95438a2439ec)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/d11b4f53-bdb7-4d17-8721-d43f91d8a12d)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/0ebc7c94-d186-4bb0-b123-838b09e42cbf)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/53750b4d-480c-446a-9285-be3b3fad10fd)
+![image](https://github.com/Jiya55/Jiya55/assets/52620918/45b9dcc8-3cfd-4c27-8d2b-2721c40e4f75)
+## Cisco Cyber Security Badge
+![image](https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)
 
-![image](https://github.com/Jiya55/Jiya55/assets/52620918/383e802a-3627-43ac-af68-c47c498b1927)
 
-![image](https://images.credly.com/size/680x680/images/973136f8-09b5-439a-a309-45041c83c756/image.png)
-
-![image](https://images.credly.com/size/220x220/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)
-
-![image](https://images.credly.com/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png)
-
-![image](https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)
-
-![image](https://images.credly.com/size/680x680/images/23859131-d0ff-4f44-900f-bac86165b941/image.png)
-
-![image](https://images.credly.com/size/220x220/images/a3ff2154-3ad0-4bbf-8405-c84e777bdc9a/Developing_Applications_with_SQL__Databases__and_Django.png)
-
-![image](https://images.credly.com/size/680x680/images/66bed44e-4917-48b7-8e88-1b0c83d50437/Containers_and_Kubernetes_Essentials.png)
-
-![image](https://images.credly.com/size/220x220/images/482f703c-e221-4667-91e6-4322c3210bc0/image.png)
-
-![image](https://images.credly.com/size/220x220/images/9dcdc294-79a6-47e5-a769-708c29c7c497/image.png)
 
 
 
