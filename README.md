@@ -25,7 +25,7 @@ Tech Journal - https://thetechjournal.co.in/
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 🏅 Certificates:
-[![An image of @jiya55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiya55)
+![An image of @jiya55's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jiya55)
 
 ![image](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH/CERTIFICATE_LANDING_PAGE~RY8DH23JFJSH.jpeg)
 
